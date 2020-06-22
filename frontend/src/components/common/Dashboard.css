@@ -1,0 +1,8 @@
+.dashboard-container{
+    padding-top: 10%px;
+    background-color: white;
+    width: 90vw;
+    height: 85vh;
+    justify-content: center;
+    text-align: center;
+}
